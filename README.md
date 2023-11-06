@@ -1,0 +1,2 @@
+This is a MuJoCo ROS port of PAL's forked version of gazebo_ros_control.
+Besides the changes from Gazebo model access to MuJoCo model access, a few modifications have been made to better suit the newer C++ standard, however no substantial changes to the program logic have been made. The original license text is included in each file.

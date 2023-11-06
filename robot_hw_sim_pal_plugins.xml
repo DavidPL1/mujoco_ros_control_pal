@@ -1,0 +1,11 @@
+<library path="lib/libdefault_robot_hw_sim_pal">
+
+  <class
+    name="mujoco_ros_control_pal/DefaultRobotHWSim"
+    type="mujoco_ros::control::pal::DefaultRobotHWSim"
+    base_class_type="mujoco_ros::control::pal::RobotHWSim">
+    <description>
+      A default robot simulation interface which constructs joint handles from an SDF/URDF.
+    </description>
+  </class>
+</library>
